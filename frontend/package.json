@@ -2,32 +2,18 @@
   "name": "digisoal-frontend",
   "version": "1.0.0",
   "private": true,
-  {
-  "name": "digisoal-frontend",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "https://<digisoal>.github.io/<DSaaS>",
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
-  }
-}
   "dependencies": {
     "@stripe/react-stripe-js": "^2.7.1",
     "@stripe/stripe-js": "^3.5.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "lucide-react": "^0.390.0",
-    "tailwindcss": "^3.4.4"
+    "tailwindcss": "^3.4.4",
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
-  },
-  "devDependencies": {
-    "react-scripts": "5.0.1"
   },
   "browserslist": {
     "production": [
@@ -42,6 +28,3 @@
     ]
   }
 }
-
-
-
