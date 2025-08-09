@@ -12,7 +12,8 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
-  },
+  }
+},
   "dependencies": {
     "@stripe/react-stripe-js": "^2.7.1",
     "@stripe/stripe-js": "^3.5.0",
@@ -41,4 +42,5 @@
     ]
   }
 }
+
 
